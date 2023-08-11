@@ -102,7 +102,7 @@
 			"auth": {
 				"type": "bearer",
 				"bearer": {
-					"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluQGdtYWlsLmNvbSIsInBhc3N3b3JkIjoicGFzc3cwcmQiLCJpYXQiOjE2OTE3NzU5MDMsImV4cCI6MTY5MTc3OTUwM30.RPYhYq1GqNsEkOSjZ9X48p2YYAB3zcVse3abiCsJ8-4"
+					"token": ""
 				}
 			},
 			"event": [
@@ -204,7 +204,7 @@
 			"auth": {
 				"type": "bearer",
 				"bearer": {
-					"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXIiLCJwYXNzd29yZCI6InBhc3N3b3JkIiwicHVyY2hhc2VkQ291cnNlcyI6WzFdLCJpYXQiOjE2OTE3NzU4ODYsImV4cCI6MTY5MTc3OTQ4Nn0.LNxgzwMBIYNniXbt8dKAEQ7ImT95ApNZ1H7-rCjvYPE"
+					"token": ""
 				}
 			},
 			"event": [
