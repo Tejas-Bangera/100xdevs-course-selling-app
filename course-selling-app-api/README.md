@@ -51,7 +51,7 @@
 
 ## Run this locally!
 
-Go to `/course-selling-app-api` directory in your local machine and run the below command to install all the dependencies.
+After cloning the project locally, go to `/course-selling-app-api` directory in your local machine and run the below command to install all the dependencies.
 
 ```bash
 npm install
