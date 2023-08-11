@@ -45,7 +45,7 @@
 - This page displays all the courses created in a grid.
 - The grid is responsive on different devices for better user experience.
 
-> ⚠ Note: The Edit button on the Course cards are not yet functional and are yet to be implemented.
+> :warning: Note: The Edit button on the Course cards are not yet functional and are yet to be implemented.
 
 ## Create Course Page
 
@@ -72,7 +72,7 @@
 
 #### :warning: Note: Before you run this application make sure you have the backend server up and running!
 
-Go to `/course-selling-app-api` directory in your local machine and run the below command to install all the dependencies.
+After cloning the project locally, go to `/course-selling-app-api` directory in your local machine and run the below command to install all the dependencies.
 
 ```bash
 npm install
